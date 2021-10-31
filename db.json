@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Aditi",
+      "lastName": "Sneh",
+      "email": "aditi@gmail.com"
+    },
+    {
+      "id": "4",
+      "firstName": "Abhishek",
+      "lastName": "Singh",
+      "email": "abhishek@gmail.com"
+    },
+    {
+      "firstName": "Arjun",
+      "lastName": "Kumar",
+      "email": "arjun@gmail.com",
+      "id": "QuXEvMX"
+    },
+    {
+      "firstName": "Akriti",
+      "lastName": "Sneh",
+      "email": "akriti@gmail.com",
+      "id": "ywQeCmM"
+    }
+  ]
+}
